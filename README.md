@@ -4,21 +4,13 @@ Random CryptoNews from around the world.
 
 The news focus is on:
 
-
 * En-/Decrpytion topics (common)
-
 * SSL/CA auth./TLS certificates
-
 * Router (common attacks)
-
 * HTTP
-
 * Fingerprinting (common)
-
 * DNS (security news and attack news)
-
 * GitHub (random news)
-
 * Firewall (security, hacking, ...)
 
 
