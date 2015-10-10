@@ -1,5 +1,7 @@
-Random CryptoNews from around the world. 
-- This project is under GNU GENERAL PUBLIC LICENSE v2 -
+Random CryptoNews from around the world.
+
+
+--- This project is under GNU GENERAL PUBLIC LICENSE v2 ---
 
 
 The news focus is on:
