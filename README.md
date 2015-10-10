@@ -1,15 +1,16 @@
-CryptoNews from around the World.
+Random CryptoNews from around the world. 
+- This project is under GNU GENERAL PUBLIC LICENSE v2 -
 
 
 The news focus is on:
-ï En-/Decrpytion topics (common)
-ï SSL/CA auth./TLS certificates
-ï Router (common attacks)
-ï HTTP 
-ï Fingerprinting (common)
-ï DNS (security news and attack news)
-ï GitHub (random news)
-ï Firewall (security, hacking, ..)
+‚Ä¢ En-/Decrpytion topics (common)
+‚Ä¢ SSL/CA auth./TLS certificates
+‚Ä¢ Router (common attacks)
+‚Ä¢ HTTP 
+‚Ä¢ Fingerprinting (common)
+‚Ä¢ DNS (security news and attack news)
+‚Ä¢ GitHub (random news)
+‚Ä¢ Firewall (security, hacking, ..)
 
 
 I'm not responsable for external linked content. All links are checked (as of time of posting) and 'clean'. Since nothing can be re-checked every second you must scan and check each link on your own. 
@@ -24,138 +25,138 @@ The goal of this small project is to track 'important' news by year and relevanc
 Crypto, CA, SSL, ...
 ----------
 
-ï [Detecting an asymmetric Curve25519 backdoor in RSA key generation algorithms (samvartaka.github.io)](http://samvartaka.github.io/backdoors/2015/09/03/rsa-curve25519-backdoor/)
-ï [What RSA key size to use for an SSL certificate (certsimple.com)](https://certsimple.com/blog/measuring-ssl-rsa-keys)
-ï [Sslip.io: A Valid SSL Certificate for Every IP Address (pivotal.io)](http://blog.pivotal.io/labs/labs/sslip-io-a-valid-ssl-certificate-for-every-ip-address)
-ï [FIPS PUB 202: SHA-3 Standard is now out [pdf]](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
-ï [KeyChair: Extract RSA private keys out of .keychain files (Github.com)](https://github.com/indutny/keychair)
-ï [OpenSSL's implementation of DSA appears to be broken (ludost.net)](https://j.ludost.net/blog/archives/2015/09/05/rfc-2631_fips_186-3_and_openssls_implementation_of_dsa_appear_broken_and_possibly_backdoored/index.html)
-ï [Understanding Security in IoT: SSL/TLS (golgi.io)](http://www.golgi.io/blog/security-ssl-tls/)
-ï [Never see localhost SSL warnings again (certsimple.com)](https://certsimple.com/blog/localhost-ssl-fix)
-ï [Letís Encrypt is a new Certificate Authority: Itís free, automated, and open (letsencrypt.org)](https://letsencrypt.org/)
-ï [A Tricky Path to Quantum-Safe Encryption (quantamagazine.org)](https://www.quantamagazine.org/20150908-quantum-safe-encryption/)
-ï [Should You Move Your Site to HTTPs? (webmarketingtoday.com)](http://webmarketingtoday.com/articles/117969-Should-You-Move-Your-Local-Business-Website-to-HTTPS/)
-ï [How we cracked millions of Ashley Madison bcrypt hashes efficiently (cynosureprime.blogspot.com)](http://cynosureprime.blogspot.com/2015/09/how-we-cracked-millions-of-ashley.html)
-ï [Amazon applies to be a root Certificate Authority (geekwire.com)](http://www.geekwire.com/2015/amazon-wants-to-be-your-ssl-certificate-provider-applies-to-be-a-root-certifcate-authority/)
-ï [Deprecating the RC4 Cipher (mozilla.org)](https://blog.mozilla.org/security/2015/09/11/deprecating-the-rc4-cipher/)
-ï [The Comprehensive Guide to URL Parameter Encryption in PHP (paragonie.com)](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php)
-ï [Google has most of the emails even if run your own mail server (2014) (mako.cc](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
-ï [The Comprehensive Guide to URL Parameter Encryption in PHP (paragonie.com)](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php#resubmitted)
-ï [Why not validate Curve25519 public keys could be harmful (vnhacker.blogspot.com)](http://vnhacker.blogspot.com/2015/09/why-not-validating-curve25519-public.html)
-ï [SSL in MS Edge](https://certsimple.com/blog/dv-ssl-in-microsoft-edge)
-ï [Certificate Transparency](http://www.certificate-transparency.org/)
-ï [Crack Password Protected PDF Files on a GPU Cluster (hashcrack.org)](https://hashcrack.org/page?n=14092015)
-ï [A Password hash storage scheme that prevents efficient password cracking (github.com)](https://github.com/PolyPasswordHasher/PolyPasswordHasher)
-ï ['Dissent,' a New Type of Security Tool, Could Improve Online Anonymity (vice.com)](http://motherboard.vice.com/read/dissent-a-new-type-of-security-tool-could-markedly-improve-online-anonymity)
-ï [Disabling SSLv3 and RC4 (googleonlinesecurity.blogspot.com)](http://googleonlinesecurity.blogspot.com/2015/09/disabling-sslv3-and-rc4.html)
-ï [Dynamic TLS certificates with OpenResty and ssl_certificate_by_lua (litespeed.io)](https://litespeed.io/dynamic-tls-certificates-with-openresty-and-ssl_certificate_by_lua/)
-ï [Using an offline GnuPG master key (incenp.org)](http://www.incenp.org/notes/2015/using-an-offline-gnupg-master-key.html)
-ï [[Open source file encryption for Windows (cryptoextension.eu)](http://www.cryptoextension.eu/)
-ï [Govt. Of India Draft National Encryption Policy [pdf] (deity.gov.in)](http://deity.gov.in/sites/upload_files/dit/files/draft%20Encryption%20Policyv1.pdf)
-ï [Post-quantum cryptography](http://pqcrypto.org/)
-ï [Windows? NO, Linux and Mac OS X Most Vulnerable Operating System In 2014](http://thehackernews.com/2015/02/vulnerable-operating-system.html)
-ï [Symantec Issues Rogue EV Certificate for Google.com (eff.org)](https://www.eff.org/deeplinks/2015/09/symantec-issues-rogue-ev-certificate-googlecom)
-ï [Enough with the Salts: Updates on Secure Password Schemes (nccgroup.trust)](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/march/enough-with-the-salts-updates-on-secure-password-schemes/)
-ï [The Tricky Encryption That Could Stump Quantum Computers (wired.com)](http://www.wired.com/2015/09/tricky-encryption-stump-quantum-computers/)
-ï [Understanding Security in IoT: SSL/TLS (golgi.io)](http://www.golgi.io/blog/security-ssl-tls/)
-ï [New Severity Level, "Critical" (openssl.org)](https://www.openssl.org/blog/blog/2015/09/28/critical-security-level/)
+‚Ä¢ [Detecting an asymmetric Curve25519 backdoor in RSA key generation algorithms (samvartaka.github.io)](http://samvartaka.github.io/backdoors/2015/09/03/rsa-curve25519-backdoor/)
+‚Ä¢ [What RSA key size to use for an SSL certificate (certsimple.com)](https://certsimple.com/blog/measuring-ssl-rsa-keys)
+‚Ä¢ [Sslip.io: A Valid SSL Certificate for Every IP Address (pivotal.io)](http://blog.pivotal.io/labs/labs/sslip-io-a-valid-ssl-certificate-for-every-ip-address)
+‚Ä¢ [FIPS PUB 202: SHA-3 Standard is now out [pdf]](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf)
+‚Ä¢ [KeyChair: Extract RSA private keys out of .keychain files (Github.com)](https://github.com/indutny/keychair)
+‚Ä¢ [OpenSSL's implementation of DSA appears to be broken (ludost.net)](https://j.ludost.net/blog/archives/2015/09/05/rfc-2631_fips_186-3_and_openssls_implementation_of_dsa_appear_broken_and_possibly_backdoored/index.html)
+‚Ä¢ [Understanding Security in IoT: SSL/TLS (golgi.io)](http://www.golgi.io/blog/security-ssl-tls/)
+‚Ä¢ [Never see localhost SSL warnings again (certsimple.com)](https://certsimple.com/blog/localhost-ssl-fix)
+‚Ä¢ [Let‚Äôs Encrypt is a new Certificate Authority: It‚Äôs free, automated, and open (letsencrypt.org)](https://letsencrypt.org/)
+‚Ä¢ [A Tricky Path to Quantum-Safe Encryption (quantamagazine.org)](https://www.quantamagazine.org/20150908-quantum-safe-encryption/)
+‚Ä¢ [Should You Move Your Site to HTTPs? (webmarketingtoday.com)](http://webmarketingtoday.com/articles/117969-Should-You-Move-Your-Local-Business-Website-to-HTTPS/)
+‚Ä¢ [How we cracked millions of Ashley Madison bcrypt hashes efficiently (cynosureprime.blogspot.com)](http://cynosureprime.blogspot.com/2015/09/how-we-cracked-millions-of-ashley.html)
+‚Ä¢ [Amazon applies to be a root Certificate Authority (geekwire.com)](http://www.geekwire.com/2015/amazon-wants-to-be-your-ssl-certificate-provider-applies-to-be-a-root-certifcate-authority/)
+‚Ä¢ [Deprecating the RC4 Cipher (mozilla.org)](https://blog.mozilla.org/security/2015/09/11/deprecating-the-rc4-cipher/)
+‚Ä¢ [The Comprehensive Guide to URL Parameter Encryption in PHP (paragonie.com)](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php)
+‚Ä¢ [Google has most of the emails even if run your own mail server (2014) (mako.cc](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+‚Ä¢ [The Comprehensive Guide to URL Parameter Encryption in PHP (paragonie.com)](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php#resubmitted)
+‚Ä¢ [Why not validate Curve25519 public keys could be harmful (vnhacker.blogspot.com)](http://vnhacker.blogspot.com/2015/09/why-not-validating-curve25519-public.html)
+‚Ä¢ [SSL in MS Edge](https://certsimple.com/blog/dv-ssl-in-microsoft-edge)
+‚Ä¢ [Certificate Transparency](http://www.certificate-transparency.org/)
+‚Ä¢ [Crack Password Protected PDF Files on a GPU Cluster (hashcrack.org)](https://hashcrack.org/page?n=14092015)
+‚Ä¢ [A Password hash storage scheme that prevents efficient password cracking (github.com)](https://github.com/PolyPasswordHasher/PolyPasswordHasher)
+‚Ä¢ ['Dissent,' a New Type of Security Tool, Could Improve Online Anonymity (vice.com)](http://motherboard.vice.com/read/dissent-a-new-type-of-security-tool-could-markedly-improve-online-anonymity)
+‚Ä¢ [Disabling SSLv3 and RC4 (googleonlinesecurity.blogspot.com)](http://googleonlinesecurity.blogspot.com/2015/09/disabling-sslv3-and-rc4.html)
+‚Ä¢ [Dynamic TLS certificates with OpenResty and ssl_certificate_by_lua (litespeed.io)](https://litespeed.io/dynamic-tls-certificates-with-openresty-and-ssl_certificate_by_lua/)
+‚Ä¢ [Using an offline GnuPG master key (incenp.org)](http://www.incenp.org/notes/2015/using-an-offline-gnupg-master-key.html)
+‚Ä¢ [[Open source file encryption for Windows (cryptoextension.eu)](http://www.cryptoextension.eu/)
+‚Ä¢ [Govt. Of India Draft National Encryption Policy [pdf] (deity.gov.in)](http://deity.gov.in/sites/upload_files/dit/files/draft%20Encryption%20Policyv1.pdf)
+‚Ä¢ [Post-quantum cryptography](http://pqcrypto.org/)
+‚Ä¢ [Windows? NO, Linux and Mac OS X Most Vulnerable Operating System In 2014](http://thehackernews.com/2015/02/vulnerable-operating-system.html)
+‚Ä¢ [Symantec Issues Rogue EV Certificate for Google.com (eff.org)](https://www.eff.org/deeplinks/2015/09/symantec-issues-rogue-ev-certificate-googlecom)
+‚Ä¢ [Enough with the Salts: Updates on Secure Password Schemes (nccgroup.trust)](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/march/enough-with-the-salts-updates-on-secure-password-schemes/)
+‚Ä¢ [The Tricky Encryption That Could Stump Quantum Computers (wired.com)](http://www.wired.com/2015/09/tricky-encryption-stump-quantum-computers/)
+‚Ä¢ [Understanding Security in IoT: SSL/TLS (golgi.io)](http://www.golgi.io/blog/security-ssl-tls/)
+‚Ä¢ [New Severity Level, "Critical" (openssl.org)](https://www.openssl.org/blog/blog/2015/09/28/critical-security-level/)
 
 
 
 Router
 ----------
 
-ï [ìSYNful Knockî Attack Implants Cisco Routers (securityweek.com)](http://www.securityweek.com/implanted-cisco-routers-used-target-networks)
-ï [Cisco router attacks duck cyber defenses, hit four countries (reuters.com)](http://www.reuters.com/article/2015/09/15/us-cybersecurity-routers-cisco-systems-idUSKCN0RF0N420150915?feedType=RSS&feedName=topNews&utm_source=twitter)
-ï [Malicious Cisco router backdoor found on 79 more devices (arstechnica.co.uk)](http://arstechnica.co.uk/security/2015/09/malicious-cisco-router-backdoor-found-on-79-more-devices-25-in-the-us/)
+‚Ä¢ [‚ÄúSYNful Knock‚Äù Attack Implants Cisco Routers (securityweek.com)](http://www.securityweek.com/implanted-cisco-routers-used-target-networks)
+‚Ä¢ [Cisco router attacks duck cyber defenses, hit four countries (reuters.com)](http://www.reuters.com/article/2015/09/15/us-cybersecurity-routers-cisco-systems-idUSKCN0RF0N420150915?feedType=RSS&feedName=topNews&utm_source=twitter)
+‚Ä¢ [Malicious Cisco router backdoor found on 79 more devices (arstechnica.co.uk)](http://arstechnica.co.uk/security/2015/09/malicious-cisco-router-backdoor-found-on-79-more-devices-25-in-the-us/)
 
 
 
 Fingerprinting
 ----------
 
-ï [Fingerprinting Web Application Platforms by Variations in PNG Implementations [pdf] (github.com)](https://github.com/isislovecruft/library/blob/master/computer%20science%20theory/Fingerprinting%20Web%20Application%20Platforms%20by%20Variations%20in%20PNG%20Implementations%20%282015%29%20-%20Bongard.pdf)
-ï [HTTPS Client Identification Using SSL/TLS Fingerprinting (muni.cz)](https://www.muni.cz/research/publications/1299983?lang=en)
-ï [Can We Stop IP Spoofing? A New Whitepaper Explores the Issues (circleid.com)](http://www.circleid.com/posts/20150910_can_we_stop_ip_spoofing_a_new_whitepaper_explores_the_issues/)
-ï [The Web-Tracking Tipping Point (techcrunch.com)](http://techcrunch.com/2015/09/17/the-web-tracking-tipping-point/)
-ï [Track OS X Users Remotely Using IPv6 Device Fingerprinting (danieldent.com)](https://www.danieldent.com/blog/remote-ipv6-device-fingerprinting/)
+‚Ä¢ [Fingerprinting Web Application Platforms by Variations in PNG Implementations [pdf] (github.com)](https://github.com/isislovecruft/library/blob/master/computer%20science%20theory/Fingerprinting%20Web%20Application%20Platforms%20by%20Variations%20in%20PNG%20Implementations%20%282015%29%20-%20Bongard.pdf)
+‚Ä¢ [HTTPS Client Identification Using SSL/TLS Fingerprinting (muni.cz)](https://www.muni.cz/research/publications/1299983?lang=en)
+‚Ä¢ [Can We Stop IP Spoofing? A New Whitepaper Explores the Issues (circleid.com)](http://www.circleid.com/posts/20150910_can_we_stop_ip_spoofing_a_new_whitepaper_explores_the_issues/)
+‚Ä¢ [The Web-Tracking Tipping Point (techcrunch.com)](http://techcrunch.com/2015/09/17/the-web-tracking-tipping-point/)
+‚Ä¢ [Track OS X Users Remotely Using IPv6 Device Fingerprinting (danieldent.com)](https://www.danieldent.com/blog/remote-ipv6-device-fingerprinting/)
 
 
 
 DNS
 ----------
 
-ï [DNS Security ñ Different types of attacks concerning DNS and their mitigation (dhavalkapil.com)](https://dhavalkapil.com/blogs/DNS-Security/)
-ï [How DNS Works by DNSimple (howdns.works)](https://howdns.works/)
-ï [A modern asynchronous DNS API (getdnsapi.net)](https://getdnsapi.net/)
+‚Ä¢ [DNS Security ‚Äì Different types of attacks concerning DNS and their mitigation (dhavalkapil.com)](https://dhavalkapil.com/blogs/DNS-Security/)
+‚Ä¢ [How DNS Works by DNSimple (howdns.works)](https://howdns.works/)
+‚Ä¢ [A modern asynchronous DNS API (getdnsapi.net)](https://getdnsapi.net/)
 
 
 
 HTTP
 ----------
 
-ï [HTTP2 Explained in Markdown (ebook) (haxx.se)](http://daniel.haxx.se/blog/2015/09/11/http2-explained-in-markdown/)
-ï [NGINX Brings HTTP/2 Support to Its Commercial Release (nginx.com)](https://www.nginx.com/blog/nginx-plus-r7-released/)
-ï [http://www.http2demo.io/](http://www.http2demo.io/)
+‚Ä¢ [HTTP2 Explained in Markdown (ebook) (haxx.se)](http://daniel.haxx.se/blog/2015/09/11/http2-explained-in-markdown/)
+‚Ä¢ [NGINX Brings HTTP/2 Support to Its Commercial Release (nginx.com)](https://www.nginx.com/blog/nginx-plus-r7-released/)
+‚Ä¢ [http://www.http2demo.io/](http://www.http2demo.io/)
 
 
 
 BitCoin
 ----------
 
-ï [http://bitcoinwarrior.net/2015/09/bitcoins-leaders-dont-know-whats-next-for-bitcoin/](http://bitcoinwarrior.net/2015/09/bitcoins-leaders-dont-know-whats-next-for-bitcoin/)
-ï [Bitcoin and Cryptocurrency Technologies ñ Princeton University (coursera.org)](https://www.coursera.org/course/bitcointech)
-ï [Why Isnít There a Bitcoin Global Bank Today? (startupmanagement.org)](http://startupmanagement.org/2015/09/08/why-isnt-there-a-bitcoin-global-bank-today/)
-ï [Bitcoin's Shared Ledger Technology: Money's New Operating System (forbes.com)](http://www.forbes.com/sites/laurashin/2015/09/09/bitcoins-shared-ledger-technology-moneys-new-operating-system/)
-ï [Bitcoiners Are DDoSing Bitcoin (vice.com)](http://motherboard.vice.com/en_ca/read/great-job-everyone-bitcoiners-are-ddosing-bitcoin)
-ï [Bitcoin Is Officially a Commodity, According to U.S. Regulator (bloomberg.com)](http://www.bloomberg.com/news/articles/2015-09-17/bitcoin-is-officially-a-commodity-according-to-u-s-regulator)
-ï [An annotated version of the Bitcoin paper (fermatslibrary.com)](http://fermatslibrary.com/s/bitcoin)
-ï [Why Iím not enabling Bitcode (medium.com)](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
+‚Ä¢ [http://bitcoinwarrior.net/2015/09/bitcoins-leaders-dont-know-whats-next-for-bitcoin/](http://bitcoinwarrior.net/2015/09/bitcoins-leaders-dont-know-whats-next-for-bitcoin/)
+‚Ä¢ [Bitcoin and Cryptocurrency Technologies ‚Äì Princeton University (coursera.org)](https://www.coursera.org/course/bitcointech)
+‚Ä¢ [Why Isn‚Äôt There a Bitcoin Global Bank Today? (startupmanagement.org)](http://startupmanagement.org/2015/09/08/why-isnt-there-a-bitcoin-global-bank-today/)
+‚Ä¢ [Bitcoin's Shared Ledger Technology: Money's New Operating System (forbes.com)](http://www.forbes.com/sites/laurashin/2015/09/09/bitcoins-shared-ledger-technology-moneys-new-operating-system/)
+‚Ä¢ [Bitcoiners Are DDoSing Bitcoin (vice.com)](http://motherboard.vice.com/en_ca/read/great-job-everyone-bitcoiners-are-ddosing-bitcoin)
+‚Ä¢ [Bitcoin Is Officially a Commodity, According to U.S. Regulator (bloomberg.com)](http://www.bloomberg.com/news/articles/2015-09-17/bitcoin-is-officially-a-commodity-according-to-u-s-regulator)
+‚Ä¢ [An annotated version of the Bitcoin paper (fermatslibrary.com)](http://fermatslibrary.com/s/bitcoin)
+‚Ä¢ [Why I‚Äôm not enabling Bitcode (medium.com)](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
 
 
 
 GitHub
 ----------
 
-ï [GitHub Statsña tool for visualizing GitHub stats in your terminal (github.com)](https://github.com/IonicaBizau/github-stats)
-ï [Browse GitHub Jobs on an interactive map (breh.xyz)](http://jerbs.breh.xyz/)
-ï [Get Git Branches Checked Out on a Date (davidwalsh.name)](http://davidwalsh.name/git-branches-date)
-ï [How to Write a Git Commit Message (beams.io)](http://chris.beams.io/posts/git-commit/)
-ï [Open Source Legal Terms on GitHub (github.com)](https://github.com/longaccess/terms/)
-ï [Transparent and easy encryption for files in git repositories (blog.faggod.net)](http://blog.fraggod.net/2015/09/01/transparent-and-easy-encryption-for-files-in-git-repositories.html)
-ï [19 Tips for Everyday Git Use (alexkras.com)](http://www.alexkras.com/19-git-tips-for-everyday-use/)
-ï [Wikihub enables in-page editing for any static site on GitHub (github.com)](https://github.com/wiki-hub/wiki-hub)
-ï [A Guided Walking Tour Through the Fundamentals of Git (gitimmersion.com)](http://gitimmersion.com/)
-ï [Travis-CI API under attack (traviscistatus.com)](https://www.traviscistatus.com/incidents/3f8mwqxbh127)
-ï [Full schedule for GitHub Universe is up (githubuniverse.com)](http://githubuniverse.com/#schedule)
-ï [GitHub implements Subresource Integrity (github.com)](https://github.com/blog/2058-github-implements-subresource-integrity)
+‚Ä¢ [GitHub Stats‚Äìa tool for visualizing GitHub stats in your terminal (github.com)](https://github.com/IonicaBizau/github-stats)
+‚Ä¢ [Browse GitHub Jobs on an interactive map (breh.xyz)](http://jerbs.breh.xyz/)
+‚Ä¢ [Get Git Branches Checked Out on a Date (davidwalsh.name)](http://davidwalsh.name/git-branches-date)
+‚Ä¢ [How to Write a Git Commit Message (beams.io)](http://chris.beams.io/posts/git-commit/)
+‚Ä¢ [Open Source Legal Terms on GitHub (github.com)](https://github.com/longaccess/terms/)
+‚Ä¢ [Transparent and easy encryption for files in git repositories (blog.faggod.net)](http://blog.fraggod.net/2015/09/01/transparent-and-easy-encryption-for-files-in-git-repositories.html)
+‚Ä¢ [19 Tips for Everyday Git Use (alexkras.com)](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+‚Ä¢ [Wikihub enables in-page editing for any static site on GitHub (github.com)](https://github.com/wiki-hub/wiki-hub)
+‚Ä¢ [A Guided Walking Tour Through the Fundamentals of Git (gitimmersion.com)](http://gitimmersion.com/)
+‚Ä¢ [Travis-CI API under attack (traviscistatus.com)](https://www.traviscistatus.com/incidents/3f8mwqxbh127)
+‚Ä¢ [Full schedule for GitHub Universe is up (githubuniverse.com)](http://githubuniverse.com/#schedule)
+‚Ä¢ [GitHub implements Subresource Integrity (github.com)](https://github.com/blog/2058-github-implements-subresource-integrity)
 
 
 
 Papers & Research
 ----------
 
-ï Hong Zhu. "Survey of computational assumptions used in cryptography broken or not by Shor's algorithm." Master's thesis. 2001. http://crypto.cs.mcgill.ca/~crepeau/PDF/memoire-hong.pdf. 
-ï Marco A. Barreno. "The future of cryptography under quantum computers." Senior thesis. 2002. http://www.cs.dartmouth.edu/~sws/theses/marco.pdf. 
-ï Michael S. Brown. "Classical cryptosystems in a quantum setting." Master's thesis. 2004. http://arxiv.org/pdf/quant-ph/0404061. 
-ï Johannes Buchmann, Carlos Coronado, Martin Doering, Daniela Engelbert, Christoph Ludwig, Raphael Overbeck, Arthur Schmidt, Ulrich Vollmer, Ralf-Philipp Weinmann. "Post-quantum signatures." 2004. http://itslab.csce.kyushu-u.ac.jp/iwap04/PostQuantumSignatures.pdf.
-ï Microsoft logs IP addresses to catch windows-7 pirates by James Harlan Corning, 25 April 2015 http://ia600305.us.archive.org/10/items/gov.uscourts.wawd.214013/gov.uscourts.wawd.214013.1.0.pdf
-ï [SRP (wikipedia.org)](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)
-ï https://www.cryptolux.org/images/0/0d/Argon2.pdf
-ï http://blog.ircmaxell.com/2015/03/security-issue-combining-bcrypt-with.html
-ï https://docs.python.org/2/library/hashlib.html#hashlib.pbkdf2_hmac
-ï https://docs.python.org/3.5/library/hashlib.html#hashlib.pbkdf2_hmac
-ï http://pythonhosted.org/passlib/modular_crypt_format.html#modular-crypt-format
-ï http://pythonhosted.org/passlib
-ï [The Limits of Quantum Computers [pdf] (virginia.edu)](http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf)
+‚Ä¢ Hong Zhu. "Survey of computational assumptions used in cryptography broken or not by Shor's algorithm." Master's thesis. 2001. http://crypto.cs.mcgill.ca/~crepeau/PDF/memoire-hong.pdf. 
+‚Ä¢ Marco A. Barreno. "The future of cryptography under quantum computers." Senior thesis. 2002. http://www.cs.dartmouth.edu/~sws/theses/marco.pdf. 
+‚Ä¢ Michael S. Brown. "Classical cryptosystems in a quantum setting." Master's thesis. 2004. http://arxiv.org/pdf/quant-ph/0404061. 
+‚Ä¢ Johannes Buchmann, Carlos Coronado, Martin Doering, Daniela Engelbert, Christoph Ludwig, Raphael Overbeck, Arthur Schmidt, Ulrich Vollmer, Ralf-Philipp Weinmann. "Post-quantum signatures." 2004. http://itslab.csce.kyushu-u.ac.jp/iwap04/PostQuantumSignatures.pdf.
+‚Ä¢ Microsoft logs IP addresses to catch windows-7 pirates by James Harlan Corning, 25 April 2015 http://ia600305.us.archive.org/10/items/gov.uscourts.wawd.214013/gov.uscourts.wawd.214013.1.0.pdf
+‚Ä¢ [SRP (wikipedia.org)](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)
+‚Ä¢ https://www.cryptolux.org/images/0/0d/Argon2.pdf
+‚Ä¢ http://blog.ircmaxell.com/2015/03/security-issue-combining-bcrypt-with.html
+‚Ä¢ https://docs.python.org/2/library/hashlib.html#hashlib.pbkdf2_hmac
+‚Ä¢ https://docs.python.org/3.5/library/hashlib.html#hashlib.pbkdf2_hmac
+‚Ä¢ http://pythonhosted.org/passlib/modular_crypt_format.html#modular-crypt-format
+‚Ä¢ http://pythonhosted.org/passlib
+‚Ä¢ [The Limits of Quantum Computers [pdf] (virginia.edu)](http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf)
 
 
 
 Firewall
 ----------
 
-ï [An Analysis of Chinaís ìGreat Cannonî (usenix.org)](https://www.usenix.org/conference/foci15/workshop-program/presentation/marczak)
-ï [HTTP Evader ñ Automate Firewall Evasion Tests (noxxi.de)](http://noxxi.de/research/http-evader.html)
-ï [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
-ï [What's Up With Chinese DDoS Astroturfing?](http://danluu.com/gfw-ddos-astroturfing/)
+‚Ä¢ [An Analysis of China‚Äôs ‚ÄúGreat Cannon‚Äù (usenix.org)](https://www.usenix.org/conference/foci15/workshop-program/presentation/marczak)
+‚Ä¢ [HTTP Evader ‚Äì Automate Firewall Evasion Tests (noxxi.de)](http://noxxi.de/research/http-evader.html)
+‚Ä¢ [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
+‚Ä¢ [What's Up With Chinese DDoS Astroturfing?](http://danluu.com/gfw-ddos-astroturfing/)
 
