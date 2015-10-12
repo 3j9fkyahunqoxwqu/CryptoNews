@@ -36,6 +36,16 @@ Crypto, CA, SSL, ...
 * [The Tricky Encryption That Could Stump Quantum Computers (wired.com)](http://www.wired.com/2015/09/tricky-encryption-stump-quantum-computers/)
 * [Understanding Security in IoT: SSL/TLS (golgi.io)](http://www.golgi.io/blog/security-ssl-tls/)
 * [New Severity Level, "Critical" (openssl.org)](https://www.openssl.org/blog/blog/2015/09/28/critical-security-level/)
+* [Certificate authorities issue SSL certificates to fraudsters (netcraft.com)](http://news.netcraft.com/archives/2015/10/12/certificate-authorities-issue-hundreds-of-deceptive-ssl-certificates-to-fraudsters.html)
+* [Edward Snowden, Glenn Greenwald, Julian Assange: What They Believe (newrepublic.com)](http://www.newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
+
+
+
+GPG
+----------
+
+* [Why GPG subkeys must die (anco.is)](http://fr.anco.is/2015/why-gpg-subkeys-must-die/)
+* [Using OpenPGP Keys for SSH Authentication (stosb.com)](http://stosb.com/blog/using-openpgp-keys-for-ssh-authentication/)
 
 
 
