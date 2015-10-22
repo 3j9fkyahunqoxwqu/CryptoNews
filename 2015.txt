@@ -38,6 +38,8 @@ Crypto, CA, SSL, ...
 * [New Severity Level, "Critical" (openssl.org)](https://www.openssl.org/blog/blog/2015/09/28/critical-security-level/)
 * [Certificate authorities issue SSL certificates to fraudsters (netcraft.com)](http://news.netcraft.com/archives/2015/10/12/certificate-authorities-issue-hundreds-of-deceptive-ssl-certificates-to-fraudsters.html)
 * [Edward Snowden, Glenn Greenwald, Julian Assange: What They Believe (newrepublic.com)](http://www.newrepublic.com/article/116253/edward-snowden-glenn-greenwald-julian-assange-what-they-believe)
+* [New attacks on Network Time Protocol can defeat HTTPS and create chaos (arstechnica.com)](http://arstechnica.com/security/2015/10/new-attacks-on-network-time-protocol-can-defeat-https-and-create-chaos/)
+* [How to Hack Smart Kettle to Crack Wifi Password (thehackernews.com)](https://thehackernews.com/2015/10/hacking-wifi-password.html)
 
 
 
@@ -135,6 +137,7 @@ Papers & Research
 * http://pythonhosted.org/passlib/modular_crypt_format.html#modular-crypt-format
 * http://pythonhosted.org/passlib
 * [The Limits of Quantum Computers [pdf] (virginia.edu)](http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf)
+* [How Hackers Can Hack Your Chip-and-PIN Credit Cards (eprint.iacr.org)](http://eprint.iacr.org/2015/963.pdf)
 
 
 
