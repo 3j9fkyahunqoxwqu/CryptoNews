@@ -25,8 +25,3 @@ I'm not responsible for external linked content. All links are checked (as of ti
 
 The goal of this small project is to track 'important' news by year and relevance. 
 
-
-ToDo:
-* Better look maybe github.io page?!
-* .....
-
